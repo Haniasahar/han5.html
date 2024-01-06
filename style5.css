@@ -1,0 +1,47 @@
+* {
+    background-color: darkgrey;
+}
+
+#parent {
+    height: 600px;
+    width: 1210px;
+    border: 8px double blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+} 
+
+div {
+    height: 200px;
+    width: 200px;
+    border: 8px double purple;
+}
+
+.div1 {
+    background-color: aquamarine;
+}
+
+.div2 {
+    background-color: burlywood;
+}
+
+.div3 {
+    background-color: darkorchid;
+}
+
+.div4 {
+    background-color: rgb(226, 58, 86);
+}
+
+.div5 {
+    background-color: rgb(206, 216, 19);
+}
+
+/* .div6{
+    background-color:lawngreen;
+}
+
+.div7{
+    background-color: rgb(195, 121, 86);
+} */
